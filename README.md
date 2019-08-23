@@ -1,8 +1,7 @@
 "# web-scrapping-with-javascript" 
 
-# Tutorial will be on youtube soon
 
-Before we start this tutorial, just want to make clear that this repo was inspired by a video on andela's youtube channel
+Before we start this tutorial, just want to make clear that this repo was inspired by (https://www.youtube.com/watch?v=4MwjweeRRgI)[this video on andela's youtube channel]
 
 Now, what we need to do first is to make sure we have the correct libraries to run this script we are about to make.
 
@@ -12,7 +11,7 @@ We'll need this three
   2. (https://cheerio.js.org/)[Cheerio]
   3. (https://www.npmjs.com/package/fast-array-diff)[Fast Array Diff]
 
-# Note: Make sure you have (http://nodejs.org)[node js] installed on your system to follow up with this tutorial
+# Note: Make sure you have (http://nodejs.org)[node js] installed on your system to follow up with [this tutorial](https://www.youtube.com/watch?v=4MwjweeRRgI)
 
 
 Now, we need to run this command to create an app for us. ```npm init -y```
