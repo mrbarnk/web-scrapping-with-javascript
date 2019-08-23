@@ -47,3 +47,6 @@
       font-size: 3.5rem;
     }
   }
+#product_div:first-of-type {
+  display: none!important;
+}
